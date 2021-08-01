@@ -4,6 +4,7 @@
   "package": "tfar.explodingmobs.mixin",
   "compatibilityLevel": "JAVA_16",
   "mixins": [
+    "EnderDragonMixin",
     "MobMixin"
   ],
   "client": [
