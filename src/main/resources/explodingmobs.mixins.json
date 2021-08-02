@@ -8,7 +8,10 @@
     "MobMixin"
   ],
   "client": [
-    "LivingEntityRendererMixin"
+    "CowRendererMixin",
+    "LivingEntityRendererMixin",
+    "LayerDefinitionsMixin",
+    "ModelLayersAccess"
   ],
   "injectors": {
     "defaultRequire": 1
